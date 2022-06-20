@@ -1,0 +1,26 @@
+h1 {
+    color: orange;
+    background-color: black;
+}
+
+.pic {
+    width: 600px;
+    height: auto;
+}
+
+button {
+    color: black;
+    background-color: orange;
+    font-size: large;
+    font-weight: bold;
+}
+
+h2 {
+    color: orange;
+    background-color: black;
+}
+
+h3 {
+    color: black;
+    background-color: orange;
+}
